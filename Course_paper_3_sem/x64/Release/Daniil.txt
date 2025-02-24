@@ -1,0 +1,12 @@
+Aliaksandr
+Daniil
+[11:20:14]BbI->Aliaksandr: Hello
+Kirill
+Daniil
+[11:20:35]BbI->Kirill: Wow
+Daniil
+Kirill
+[11:20:38]BbI->Daniil: Hello
+Daniil
+Aliaksandr
+[11:20:46]BbI->Daniil: helloq1

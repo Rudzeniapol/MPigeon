@@ -1,0 +1,5 @@
+C:\Users\ffgg9\source\repos\KPOForms\KPOForms\x64\Release\KPOForms.vcxproj.AssemblyReference.cache
+C:\Users\ffgg9\source\repos\KPOForms\KPOForms\x64\Release\KPOForms.loginForm.resources
+C:\Users\ffgg9\source\repos\KPOForms\KPOForms\x64\Release\KPOForms.MyForm.resources
+C:\Users\ffgg9\source\repos\KPOForms\KPOForms\x64\Release\KPOForms.ServerConnectForm.resources
+C:\Users\ffgg9\source\repos\KPOForms\KPOForms\x64\Release\KPOForms.vcxproj.GenerateResource.cache

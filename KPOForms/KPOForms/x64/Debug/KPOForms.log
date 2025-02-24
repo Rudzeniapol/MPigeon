@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\ffgg9\source\repos\KPOForms\KPOForms\Main.cpp(12,6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.cpp
+  ServerConnectForm.cpp
+  loginForm.cpp
+  Создание кода...
+  loginForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KPOForms.vcxproj -> C:\Users\ffgg9\source\repos\KPOForms\x64\Debug\KPOForms.exe

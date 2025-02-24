@@ -1,0 +1,7 @@
+﻿  TranslationVariables.cpp
+  Client.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1193 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Client.vcxproj -> C:\Users\ffgg9\source\repos\Course_paper_3_sem\x64\Release\Client.exe
